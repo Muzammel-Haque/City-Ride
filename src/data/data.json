@@ -1,0 +1,17 @@
+[{
+    "id": 1,
+    "name": "Bike",
+    "img":"https://imgk.timesnownews.com/story/Hero_Splendor_Plus_Black_and_Accent_1200.jpg?tr=w-600,h-450,fo-auto"
+  }, {
+    "id": 2,
+    "name": "Car",
+    "img":"https://trackimo.com/wp-content/uploads/2017/06/Using-GPS-Technology-to-Improve-Taxi.jpg"
+  }, {
+    "id": 3,
+    "name": "Bus",
+    "img":"https://www.shohoz.com/img/new-operator-promotion.jpg"
+  }, {
+    "id": 4,
+    "name": "Train",
+    "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_hMzxNgbYy4quENMNhOkCffAG1urtOCSuUw&usqp=CAU"
+  }]

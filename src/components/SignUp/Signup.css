@@ -1,0 +1,19 @@
+.sign-in-field{
+    margin: 70px auto;
+    border: 1px solid black;
+    width:400px;
+    padding: 10px;
+}
+
+.sign-in-field input{
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+.submit-btn{
+    background-color:tomato;
+    border-bottom:none;
+    width:310px;
+    border-radius:3px;
+    padding:5px;
+}

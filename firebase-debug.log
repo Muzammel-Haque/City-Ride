@@ -1,0 +1,44 @@
+[debug] [2021-04-11T10:26:58.357Z] ----------------------------------------------------------------------
+[debug] [2021-04-11T10:26:58.361Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Muzammel Haque\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2021-04-11T10:26:58.363Z] CLI Version:   9.8.0
+[debug] [2021-04-11T10:26:58.363Z] Platform:      win32
+[debug] [2021-04-11T10:26:58.364Z] Node Version:  v14.15.3
+[debug] [2021-04-11T10:26:58.367Z] Time:          Sun Apr 11 2021 16:26:58 GMT+0600 (Bangladesh Standard Time)
+[debug] [2021-04-11T10:26:58.367Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2021-04-11T10:26:58.389Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2021-04-11T10:26:58.390Z] > authorizing via signed-in user
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\coding\web-developing\project\assignment-new-9\riders
+
+Before we get started, keep in mind:
+
+  * You are currently outside your home directory
+  * You are initializing in an existing Firebase project directory
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
+[info] i  .firebaserc already has a default project, using city-ride-dc4db. 
+[debug] [2021-04-11T10:27:23.151Z] >>> [apiv2][query] GET https://firebase.googleapis.com/v1beta1/projects/city-ride-dc4db [none]
+[debug] [2021-04-11T10:27:23.896Z] <<< [apiv2][status] GET https://firebase.googleapis.com/v1beta1/projects/city-ride-dc4db 200
+[debug] [2021-04-11T10:27:23.897Z] <<< [apiv2][body] GET https://firebase.googleapis.com/v1beta1/projects/city-ride-dc4db {"projectId":"city-ride-dc4db","projectNumber":"564200646822","displayName":"city-ride","name":"projects/city-ride-dc4db","resources":{"hostingSite":"city-ride-dc4db"},"state":"ACTIVE"}
+[info] 
+=== Hosting Setup
+[info] 
+[info] Your public directory is the folder (relative to your project directory) that
+[info] will contain Hosting assets to be uploaded with firebase deploy. If you
+[info] have a build process for your assets, use your build's output directory.
+[info] 
