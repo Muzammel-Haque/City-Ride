@@ -1,3 +1,19 @@
-ami assignment 9 firbaser er je project er moddhe deploy korechilam , assignment 10 o some project e deploy korechilam jar karone assignment 9 er live site kaj korrechilo na, then komu apu phone kore bole problem ta fix kore readme file er moddhe live site ta add kore dite
+Project Name:- City Ride
 
-live site:- https://amar-projects.web.app
+Technology:-
+HTML, CSS, JavaScript, ES6, React, React Router, React Bootstrap.
+
+Description:-
+
+This is a ride sharing app. 
+
+In this app users can find some transport system to move one place to another place.
+
+User authentication system is also used in this site.
+
+
+
+
+Live-link:  https://amar-projects.web.app
+
+
